@@ -4,3 +4,9 @@
 # Переменные окружения
 .env
 
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VScode настройки
+.vscode/
